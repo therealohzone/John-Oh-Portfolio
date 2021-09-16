@@ -7,7 +7,8 @@ This is my rendition of the template created by html and css.
 
 Screenshot of finished product:
 
-![portfolioHW](https://user-images.githubusercontent.com/89123840/133546048-2e9138e9-5b1f-46f2-99ff-e9bf8e669f20.png)
+![portfolioHW2](https://user-images.githubusercontent.com/89123840/133697525-1ad56691-890f-4641-afff-8e274d7cb974.png)
+
 
 https://github.com/therealohzone/John-Oh-Portfolio.git
 
