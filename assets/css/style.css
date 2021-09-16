@@ -36,7 +36,8 @@ a:visited {
   color:#464950;
   background-color: #92cbcc;
   right: 70px;
-  bottom: 1150px
+  bottom: 1150px;
+  z-index: 1;
 
 
 }
